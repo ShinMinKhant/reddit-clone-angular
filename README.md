@@ -1,2 +1,2 @@
 # reddit-clone-angular
-Reddit Clone (Frontend)
+This frontend of Reddit Clone is built using Angular.
